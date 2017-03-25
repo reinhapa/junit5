@@ -136,6 +136,7 @@ on GitHub.
   Furthermore, `TestIdentifier.isTest()` and `TestIdentifier.isContainer()` now delegate
   to `TestDescriptor.Type` constants.
 
+
 [[release-notes-5.0.0-m4-junit-vintage]]
 ==== JUnit Vintage
 
